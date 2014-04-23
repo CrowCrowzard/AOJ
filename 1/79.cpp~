@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  string body;
+
+  while(1) {
+    cin >> body;
+    if(body[0] == '0')break;
+    int i = 0;
+  
+
+  }
+
+
+}
+
